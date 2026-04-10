@@ -8,3 +8,5 @@ Use this at your own risk. The functions might break in your programs depending 
 ❗ HOW TO USE
 
 To use this module download it from the releases and put it in the same folder as your program.
+
+Parts of this project were assisted by AI tools as I continue learning and improving my development skills.

@@ -13,3 +13,8 @@ To use this module download it from the releases and put it in the same folder a
 # Disclaimer
 
 Parts of this project were assisted by AI tools as I continue learning and improving my development skills.
+
+
+<p align="center">
+  <img src="log.png" alt="PYU Logo" width="500"/>
+</p>

@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+title: PYU
+description: Python Utilities & Automation Tools
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Documentation: documentation.md
+  - About: about.md
+  

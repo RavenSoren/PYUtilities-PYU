@@ -1,6 +1,9 @@
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
 title: PYU
 description: Python Utilities & Automation Tools
+
+plugins:
+  - jekyll-include-cache
 
 nav:
   - Home: index.md

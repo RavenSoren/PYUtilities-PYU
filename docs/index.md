@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 # Welcome to PYU
 
 <p align="center">

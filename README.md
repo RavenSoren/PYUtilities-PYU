@@ -16,5 +16,5 @@ Parts of this project were assisted by AI tools as I continue learning and impro
 
 
 <p align="center">
-  <img src="log.png" alt="PYU Logo" width="500"/>
+  <img src="docs/log.png" alt="PYU Logo" width="500"/>
 </p>

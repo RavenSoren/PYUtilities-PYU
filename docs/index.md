@@ -2,7 +2,7 @@
 
 # Welcome to PYU
 
-<p align="left">
+<p align="center">
   <img src="/log.png" alt="PYU Logo" width="350">
 </p>
 
@@ -21,7 +21,7 @@ A background tool that automatically detects and unzips files.
 ---
 
 ## Documentation
-Full documentation is available [here]()
+Full documentation is available [here](https://github.com/RavenSoren/PYUtilities-PYU/wiki)
 
 ---
 

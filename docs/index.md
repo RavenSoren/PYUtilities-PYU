@@ -3,7 +3,7 @@
 # Welcome to PYU
 
 <p align="center">
-  <img src="/log.png" alt="PYU Logo" width="350">
+  <img src="log.png" alt="PYU Logo" width="350">
 </p>
 
 PYU is a developer brand focused on automation, utilities, and clean software tools.

@@ -1,12 +1,14 @@
-remote_theme: mmistakes/minimal-mistakes
-title: PYU
-description: Python Utilities & Automation Tools
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
 
-nav:
-  - Home: index.md
-  - Projects: projects.md
-  - Documentation: documentation.md
-  - About: about.md
+title: "PYU"
+description: "Python Utilities & Automation Tools"
+
+# Enable the navigation bar
+header_pages:
+  - index.md
+  - projects.md
+  - documentation.md
+  - about.md
